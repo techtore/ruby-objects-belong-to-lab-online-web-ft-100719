@@ -5,7 +5,7 @@ class Post
   end
   class Author 
     
-    def initialize
+    def initialize(author)
     @author = author
     end
   end
