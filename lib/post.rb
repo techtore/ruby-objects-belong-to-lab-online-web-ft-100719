@@ -3,6 +3,5 @@
   
     def initialize 
       @title = title 
-      @@author
     end
   end 
